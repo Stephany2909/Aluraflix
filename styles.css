@@ -9,3 +9,8 @@ header{
     padding:20px;
     font-size:32px;
 }
+
+section{
+     background: radial-gradient(rgb(155 0 0), transparent);
+    padding: 30px;
+}
